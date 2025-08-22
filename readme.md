@@ -11,4 +11,4 @@
 
 # Egg Dosa 
 * Dosa Batter
-* Egg, egg masala, oil
+* Egg(as per taste), egg masala, oil
