@@ -11,4 +11,4 @@
 
 # Egg Dosa 
 * Dosa Batter
-* Egg and Oil
+* Double Egg, Oil and karam
