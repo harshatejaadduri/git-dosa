@@ -11,4 +11,3 @@
 
 # Egg Dosa 
 * Dosa Batter
-* Egg and Oil
